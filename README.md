@@ -197,10 +197,10 @@ Finding the thing somebody already wrote, wherever they put it.
 - **[Slack AI](https://slack.com/features/ai)** — Channel recaps, thread summaries, and search over conversations a team has already had. `Paid` `Web` `Windows` `macOS` `iOS` `Android`
 
 ## Personal automation
-- **[ChatSequel](https://vertexforth.com/en/prax9/chatsequel/)** — Free browser extension that continues ChatGPT responses after a configured delay in enabled tabs, with per-tab controls and context handoff. `Free` `Chrome` `Edge`
 
 Joining tools together so the handoffs stop being manual.
 
+- **[ChatSequel](https://vertexforth.com/en/prax9/chatsequel/)** — Free browser extension that continues ChatGPT responses after a configured delay in enabled tabs, with per-tab controls and context handoff. `Free` `Chrome` `Edge`
 - **[Bardeen](https://www.bardeen.ai/)** — Browser automation that scrapes, fills, and moves data between web applications on a trigger. `Freemium` `Web` `Browser Extension`
 - **[IFTTT](https://ifttt.com/)** — Simple trigger-and-action automation across consumer applications and connected devices. `Freemium` `Web` `iOS` `Android`
 - **[Make](https://www.make.com/)** — Visual automation with branching and error handling, for workflows too involved for a one-liner. `Freemium` `Web` `API`
