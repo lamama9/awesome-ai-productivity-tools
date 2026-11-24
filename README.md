@@ -197,6 +197,7 @@ Finding the thing somebody already wrote, wherever they put it.
 - **[Slack AI](https://slack.com/features/ai)** — Channel recaps, thread summaries, and search over conversations a team has already had. `Paid` `Web` `Windows` `macOS` `iOS` `Android`
 
 ## Personal automation
+- **[ChatSequel](https://vertexforth.com/en/prax9/chatsequel/)** — Free browser extension that continues ChatGPT responses after a configured delay in enabled tabs, with per-tab controls and context handoff. `Free` `Chrome` `Edge`
 
 Joining tools together so the handoffs stop being manual.
 
